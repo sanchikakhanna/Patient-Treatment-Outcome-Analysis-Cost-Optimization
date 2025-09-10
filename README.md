@@ -1,0 +1,2 @@
+# Patient-Treatment-Outcome-Analysis-Cost-Optimization
+A multi-specialty hospital chain across India is facing rising costs of patient treatments,  inconsistent recovery rates, and inefficiencies in post-treatment follow-ups. The management  suspects these inefficiencies are due to misallocation of resources, delays in treatment  planning, and lack of insights into patient outcomes across departments.
